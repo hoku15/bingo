@@ -3,5 +3,5 @@
 - GUIライブラリ：
 
 # 使用方法
-1.aiu
-1.kakiku
+1. aiu
+1. kakiku
